@@ -1,0 +1,7 @@
+{
+  "name": "yuxi-lerna-playground",
+  "version": "0.0.0",
+  "devDependencies": {
+    "@packages/ui": "*"
+  }
+}

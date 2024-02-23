@@ -1,0 +1,19 @@
+{
+  "name": "lerna-playground",
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "lerna": "^8.1.2"
+  },
+  "workspaces": ["./packages/*"]
+}
