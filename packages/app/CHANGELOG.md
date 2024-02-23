@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/yxwww/lerna-playground/compare/yuxi-lerna-playground@0.1.0...yuxi-lerna-playground@0.2.0) (2024-02-23)
+
+
+### Features
+
+* **app:** feat on app ([9bb8745](https://github.com/yxwww/lerna-playground/commit/9bb87450d45f470028436218887e20f3cdc40aeb))
+
+
+
+
+
 # [0.1.0](https://github.com/yxwww/lerna-playground/compare/yuxi-lerna-playground@0.0.3...yuxi-lerna-playground@0.1.0) (2024-02-23)
 
 
