@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/yxwww/lerna-playground/compare/@packages/ui@0.0.1...@packages/ui@0.2.0) (2024-02-23)
+
+
+### Features
+
+* **test:** some new feature ([a70bcd0](https://github.com/yxwww/lerna-playground/commit/a70bcd0dfd378b149c52cc6462333a1fa8aec170))
+
+
+
+
+
 # [0.1.0](https://github.com/yxwww/lerna-playground/compare/@packages/ui@0.0.1...@packages/ui@0.1.0) (2024-02-23)
 
 
